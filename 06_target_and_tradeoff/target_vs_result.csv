@@ -1,0 +1,6 @@
+metric,target_set_before_run,actual_result,met_target,notes
+mAP@0.5,TODO,TBD,TBD,Set target before optimization
+Median latency ms,TODO,TBD,TBD,Same batch/input/device protocol
+P95 latency ms,TODO,TBD,TBD,Same batch/input/device protocol
+FPS,TODO,TBD,TBD,Report sustained and inference-only FPS distinctly
+Model size MB,TODO,TBD,TBD,Measure exported artifact

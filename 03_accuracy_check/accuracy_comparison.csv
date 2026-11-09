@@ -1,0 +1,3 @@
+model,format,test_set,images,mAP50,precision,recall,notes
+Original M1 model,PT,TODO,TODO,TODO,TODO,TODO,Pending evaluation
+Optimized model,ONNX/INT8/TensorRT,TODO,TODO,TODO,TODO,TODO,Pending evaluation
